@@ -12,6 +12,8 @@ This project serves as a sandbox for exploring Manim's capabilities, starting wi
 |-------|------|-------------|
 | `LorenzAttractor` | `dev_scene.py` | 3D animated trajectory of the Lorenz system with ambient camera rotation and color gradient. |
 
+![Lorenz Attractor Preview](assets/preview.png)
+
 ## Prerequisites
 
 - Python 3.12+
